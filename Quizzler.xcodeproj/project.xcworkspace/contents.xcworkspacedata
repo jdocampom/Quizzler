@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/juandiegoocampo/Documents/iOS 13 &amp; Swift 5 Course/Section 9 (iOS App Design Patterns and Code Structuring)/Quizzler - MultipleChoice (Completed)/Quizzler.xcodeproj">
+      location = "self:../Quizzler">
    </FileRef>
 </Workspace>
